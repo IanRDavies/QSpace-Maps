@@ -21,10 +21,10 @@
 <metadata>
 	<sfw  xmlns="&ns_sfw;">
 		<slices></slices>
-		<sliceSourceBounds  bottomLeftOrigin="true" x="-38" width="688.32" height="510" y="-651"></sliceSourceBounds>
+		<sliceSourceBounds  bottomLeftOrigin="true" x="-38.66" width="688.32" height="510" y="-651"></sliceSourceBounds>
 	</sfw>
 </metadata>
-<image style="overflow:visible;" width="2868" height="2125" id="map" xlink:href="data:image/jpeg;base64,/9j/4StKRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAA
+<image style="overflow:visible;" width="2868" height="2125" xlink:href="data:image/jpeg;base64,/9j/4StKRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUAAAABAAAAYgEbAAUAAAABAAAA
 agEoAAMAAAABAAIAAAExAAIAAAAgAAAAcgEyAAIAAAAUAAAAkodpAAQAAAABAAAAqAAAANQALcbA
 AAAnEAAtxsAAACcQQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKQAyMDE0OjA1OjE2IDE2
 OjI5OjQ5AAAAAAOgAQADAAAAAQABAACgAgAEAAAAAQAACzSgAwAEAAAAAQAACE0AAAAAAAAABgED
@@ -35549,7 +35549,7 @@ de9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+6917
 37r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfu
 vde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691
 737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvf
-uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691/9k=" transform="matrix(0.24 0 0 0.24 0 0)">
+uvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691737r3Xvfuvde9+691/9k=" transform="matrix(0.24 0 0 0.24 -0.6602 0)">
 </image>
 <polygon id="cruciform" class="st0" points="160.5,136 243.78,138.41 243.78,226.88 162.33,221.34 "/>
 <polygon id="rayne-1" class="st0" points="60,233.5 57.5,252 124,252 124,233.5 "/>
